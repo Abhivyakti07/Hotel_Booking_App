@@ -1,3 +1,7 @@
+
+
+
+
 import { FormEvent, useState } from "react";
 import { useSearchContext } from "../contexts/SearchContext";
 import { MdTravelExplore } from "react-icons/md";
